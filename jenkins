@@ -28,6 +28,7 @@ stages {
 {
   steps {
   bat "mvn package"
+  echo "hello its done"
 }
 }
 }
