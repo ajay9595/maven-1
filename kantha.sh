@@ -4,3 +4,4 @@ read a
 echo "enter the value for b"
 read b
 c = $a + $b
+echo "result $c"
